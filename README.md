@@ -1,6 +1,4 @@
 # Heart_Disease
- 
-🧠 A Work in Progress
 
 This was originally a Codecademy Review Project using hypothesis tests to determine associations between variables. I expanded upon the initial tasks by analyzing more combinations of variables.
 
